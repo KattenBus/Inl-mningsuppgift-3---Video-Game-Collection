@@ -116,7 +116,8 @@ namespace Video_Game_collection___Inlämning_3
 
             if (openFileDialog.ShowDialog() == DialogResult.OK)
             {
-                imagePath = Path.Combine(Application.StartupPath,openFileDialog.FileName);
+                string fileName = Path.GetFileName(openFileDialog.FileName);
+                imagePath = Path.Combine("VideoGamePictures", fileName);
 
                 gamePicturePictureBox.ImageLocation = imagePath;
 
