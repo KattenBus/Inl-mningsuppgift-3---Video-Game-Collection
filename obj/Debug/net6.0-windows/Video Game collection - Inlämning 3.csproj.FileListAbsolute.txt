@@ -1,0 +1,27 @@
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\bin\Debug\net6.0-windows\Video Game collection - Inlämning 3.exe
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\bin\Debug\net6.0-windows\Video Game collection - Inlämning 3.deps.json
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\bin\Debug\net6.0-windows\Video Game collection - Inlämning 3.runtimeconfig.json
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\bin\Debug\net6.0-windows\Video Game collection - Inlämning 3.dll
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\bin\Debug\net6.0-windows\Video Game collection - Inlämning 3.pdb
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\Video_Game_collection___Inlämning_3.mainWindow.resources
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\Video Game collection - Inlämning 3.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\Video Game collection - Inlämning 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\Video Game collection - Inlämning 3.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\Video Game collection - Inlämning 3.AssemblyInfo.cs
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\Video Game collection - Inlämning 3.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\Video Game collection - Inlämning 3.dll
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\refint\Video Game collection - Inlämning 3.dll
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\Video Game collection - Inlämning 3.pdb
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\Video Game collection - Inlämning 3.genruntimeconfig.cache
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\ref\Video Game collection - Inlämning 3.dll
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\Video_Game_collection___Inlämning_3.GameList.resources
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\Video_Game_collection___Inlämning_3.Properties.Resources.resources
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\bin\Debug\net6.0-windows\System.Web.DataVisualization.Design.dll
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\bin\Debug\net6.0-windows\System.Web.DataVisualization.dll
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.Design.dll
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\bin\Debug\net6.0-windows\OxyPlot.dll
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\Video Game collection - Inlämning 3.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\Video Game collection - Inlämning 3.csproj.CopyComplete
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\obj\Debug\net6.0-windows\Video_Game_collection___Inlämning_3.ViewStats.resources
+D:\Visual Studio Projects\Video Game collection - Inlämning 3\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
